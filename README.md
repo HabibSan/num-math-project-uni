@@ -1,0 +1,1 @@
+Put all files into one folder and run the experiment script. To understand the functionality in detail feel free to look at the other modules. If you want an overview of all the code, check the module description pdf file out.
